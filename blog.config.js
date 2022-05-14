@@ -2,7 +2,7 @@ const BLOG = {
   title: '乐心',
   author: '乐心',
   email: 'qufulin123@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://nobelium-qxmdv8n6j-qufulin123-gmailcom.vercel.app/',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -39,7 +39,7 @@ const BLOG = {
     // support provider: gitalk, utterances, cusdis
     provider: '', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: '', // The repository of store comments
+      repo: 'gitlexin/nobelium', // The repository of store comments
       owner: '',
       admin: [],
       clientID: '',
